@@ -1,2 +1,2 @@
 # brutforce-
-show how brutforce attcak work
+show how brutforce attcak work by using python
